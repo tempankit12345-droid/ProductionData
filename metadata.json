@@ -1,0 +1,5 @@
+{
+  "name": "Production Data Manager",
+  "description": "A comprehensive Manufacturing Data Management System featuring role-based access, production logging, quality control enforcement, and administrative master data management.",
+  "requestFramePermissions": []
+}
